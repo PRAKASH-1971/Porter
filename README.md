@@ -90,8 +90,9 @@ At Homepage we can find the our service just by filling detail in form section w
 
 ****deploy link***
 
-[project Deploy link of netify]()
+[project Deploy link of netify](https://beautiful-rabanadas-160fc9.netlify.app/)
 
 
-[Project Deploy Link]()
+[Project Deploy Link](https://beautiful-rabanadas-160fc9.netlify.app/)
+[Youtube link of Project Presentaion](https://www.youtube.com/watch?v=FyUwJ44uwi0)
 ## Thanks and we welcome you for your queries and suggestions.
